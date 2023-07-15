@@ -3,7 +3,7 @@ Java library that provides utilities for HTTP cookies.
 
 Please check the wiki
 
-https://github.com/orionlibs/google-maps-wrapper/wiki
+https://github.com/orionlibs/cookie/wiki
 
 You can import the library by using:  
 ```xml
