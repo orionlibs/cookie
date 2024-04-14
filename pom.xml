@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>cookie</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>name</name>
     <description>description</description>
     <url>https://github.com/orionlibs/cookie</url>
