@@ -3,8 +3,8 @@
     <groupId>io.github.orionlibs</groupId>
     <artifactId>cookie</artifactId>
     <version>1.0.1</version>
-    <name>name</name>
-    <description>description</description>
+    <name>Orion Cookie</name>
+    <description>Service that creates/updates Java-based and Spring-based HTTP cookies.</description>
     <url>https://github.com/orionlibs/cookie</url>
     
     
